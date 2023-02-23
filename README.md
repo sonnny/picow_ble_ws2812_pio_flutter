@@ -2,3 +2,6 @@
 demo of picow nordic spp ble, flutter android app, pio ws2812
 
 don't forget to edit CMakeLists.txt to your own settings
+
+
+youtube demo [demo](https://www.youtube.com/watch?v=LTzOMCrED-w).
